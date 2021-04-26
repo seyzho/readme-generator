@@ -1,6 +1,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-const generatePage = require ("./src/readme-template")
+const generatePage = require ("./src/readme-template.js")
 
 const projectName = () => {
     return inquirer.prompt ([
@@ -105,7 +105,7 @@ const projectName = () => {
 };
 
 projectName().then(projectData => {
-    generateReadme = generatePage(projectdata);
+    generateReadme = generatePage(projectData);
 
     fs.writeFile("./README.md", generateReadme, err => {
         if (err) throw new Error(err);
