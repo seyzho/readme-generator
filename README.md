@@ -1,8 +1,8 @@
 
-  # readem
-  ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
+  # something
+  ![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
   ## Description 
-  none
+  this is a description
   ## Table of Contents
   
   - [Installation](#installation)
@@ -12,19 +12,20 @@
   - [Test](#test)
   - [Questions](#questions)
   ## Installation
-  none
+  this is an installation
   ## Usage 
-  none
+  this is how you use the project
   ## Contributors
-  none
+  this is who contribuited
   ## License
-  This project is cover under Open License (https://choosealicense.com/licenses/Open/)
+  This project is cover under Academic License (https://choosealicense.com/licenses/Academic/)
   ## Test 
-  none
+  these are the tests
+  https://youtu.be/yDwRObagX_8
   ## Questions
   
-  If you have any Questions, please do not hesitate to contact me one: 
-  -Github: [none](https://github.com/none)
+  If you have any Questions, please do not hesitate to contact me on: 
+  -Github: [seyzho](https://github.com/seyzho)
   
-  -Email: none
+  -Email: email@gmail.com
   

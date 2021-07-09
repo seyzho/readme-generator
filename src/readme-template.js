@@ -24,7 +24,7 @@ function generatePage(answers) {
   ${answers.tests}
   ## Questions
   
-  If you have any Questions, please do not hesitate to contact me one: 
+  If you have any Questions, please do not hesitate to contact me on: 
   -Github: [${answers.github}](https://github.com/${answers.github})
   
   -Email: ${answers.email}
